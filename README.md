@@ -5,11 +5,13 @@
 3.Health Data Analysis: The system employs algorithms to analyze collected data and generate insights on seniors' health trends, providing personalized recommendations for improving overall well-being.
 
 4.Reminder System: The app includes a reminder system that sends notifications for medication intake, scheduled activities, and important health-related events.
-![Add medicines](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/265d5ea5-f120-4dbb-9828-987070d1f16e)
-![Dashboard](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/eff6db61-6f00-4869-a857-1e616e70b48e)
-![Diet](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/a217b8f9-6939-4cf9-8cc8-deb37930b9ca)
-![Log-in](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/f3b4ead1-d430-4635-801d-7b5ca6d16711)
-![medicines](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/8243f774-6076-418d-a8c1-a0c02c0dbf13)
-![Registration](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/cff8bc3a-1270-47ea-b2a2-f32536fa740c)
-![Water tracker](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/139dd0ad-7537-48fc-b7bc-e5237b6523ef)
+
+![Log-in](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/4e17c804-5f32-4d78-a2c5-c60fdb0de592)
+![Registration](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/aab9ffdb-d36a-493b-809e-e5e22f51b0b9)
+![Dashboard](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/a030f76a-5f33-4d4b-842e-d2629efa1a4e)
+![Add medicines](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/04d11747-9318-4ccd-8d8f-adf425d6810d)
+![Water tracker](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/115dde0c-70f2-4e66-ba91-e8ae369b5c04)
+![medicines](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/ab5f1906-65d5-4303-bcf2-88516673faa9)
+![Diet](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/bdfdf9b7-8846-4bbf-ab11-44cf63863337)
+
 
