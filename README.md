@@ -5,10 +5,11 @@
 3.Health Data Analysis: The system employs algorithms to analyze collected data and generate insights on seniors' health trends, providing personalized recommendations for improving overall well-being.
 
 4.Reminder System: The app includes a reminder system that sends notifications for medication intake, scheduled activities, and important health-related events.
-![Add medicines](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/3bee9daa-cbc7-4823-8688-f9a54e6df760)
-![Dashboard](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/62fb44fb-0e9c-435d-9537-c5f0040a68cc)
-![Diet](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/c777cc83-912b-4b44-a872-7c1e9a3da48d)
-![Log-in](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/ea262569-cf14-4cfb-87e1-f93cf7f57598)
-![medicines](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/b0977186-b445-4fd5-ae9c-6d0fa0176831)
-![Registration](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/338fb408-73e2-4e76-a75e-60cd81a1316b)
-![Water tracker](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/411ff239-3086-470c-99a0-912a32eb7fc7)
+![Add medicines](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/265d5ea5-f120-4dbb-9828-987070d1f16e)
+![Dashboard](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/eff6db61-6f00-4869-a857-1e616e70b48e)
+![Diet](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/a217b8f9-6939-4cf9-8cc8-deb37930b9ca)
+![Log-in](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/f3b4ead1-d430-4635-801d-7b5ca6d16711)
+![medicines](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/8243f774-6076-418d-a8c1-a0c02c0dbf13)
+![Registration](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/cff8bc3a-1270-47ea-b2a2-f32536fa740c)
+![Water tracker](https://github.com/HiteshPatil2708/KratinSoftwareSolutionsAssingment/assets/118881830/139dd0ad-7537-48fc-b7bc-e5237b6523ef)
+
